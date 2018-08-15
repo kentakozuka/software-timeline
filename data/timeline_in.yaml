@@ -1,0 +1,285 @@
+events:
+  - title: Google Cloud Function beta release
+    date: 2017/03/09
+    category: serverless, gcp, faas
+  - title: Google Cloud Function GA
+    date: 2018/07/24
+    category: serverless, gcp, faas
+  - title: Salesforce.com founded
+    date: 1990
+    category: company, saas, salesforce
+  - title: Salesforce.com founded
+    date: 1990
+    category: company, saas, salesforce
+  - title: AWS
+    date: 2002
+    category: company, aws
+  - title: iPhone introduced
+    date: 2007/01/09
+    category: company, apple, smartphone
+  - title: AWS EC2 public beta
+    date: 2006/08/25
+    category: company, aws, cloud
+  - title: Apple founded
+    date: 1976/04/01
+    category: company, apple
+  - title: IBM founded
+    date: 1911
+    category: company, ibm
+  - title: Bell Telephone Company founded
+    date: 1877/06/09
+    category: company, bell
+  - title: AMD founded
+    date: 1969/05/01
+    category: company, amd
+  - title: Intel founded
+    date: 1968/07/18
+    category: company, intel
+  - title: Google founded
+    date: 1998/09/04
+    category: company, google
+  - title: Microsoft founded
+    date: 1975/04/04
+    category: company, ms
+  - title: Google Bigtable
+    date: 2004
+    category: company, gcp, kvs
+  - title: Redis
+    date: 2009
+    category: kvs, nosql
+  - title: MongoDB
+    date: 2007
+    category: kvs, nosql
+  - title: Microsoft Windows Azure introduced
+    date: 2008/10/27
+    category: faas, microsoft, cloud
+  - title: Google App Engine released as a preview
+    date: 2008/04
+    category: faas, gcp, server-less
+  - title: docker open sourced by dotCloud
+    date: 2013/03
+    category: container, docker
+  - title: AWS Lambda introduced
+    date: 2014/11
+    category: aws, server-less, faas
+  - title: AWS Lambda Tokyo Resion started
+    date: 2015/06
+    category: aws, server-less, faas
+  - title: AWS SAM
+    date: 2016/11
+    category: aws, server-less, faas
+  - title: AWS Chalice GA
+    date: 2017/08
+    category: aws, server-less, faas
+  - title: JAWS framework
+    date: 2015/10
+    category: server-less
+  - title: Google Cloud Function alpha
+    date: 2016/02
+    category: faas, gcp, server-less
+  - title: Google Cloud Function beta
+    date: 2017/03
+    category: faas, gcp, server-less
+  - title: Google Cloud Function Tokyo Resion
+    date: 2018/06
+    category: faas, gcp, server-less
+  - title: Google Cloud Function GA
+    date: 2018/07
+    category: faas, gcp, server-less
+  - title: Google Cloud Serverless Container
+    date: 2018/07
+    category: faas, gcp, server-less
+  - title: Azure Function preview
+    date: 2016/04
+    category: faas, azure, server-less
+  - title: Azure Function GA
+    date: 2016/11
+    category: faas, azure, server-less
+  - title: ServerlessConf NYC 1st
+    date: 2016/05
+    category: faas, server-less, conf
+  - title: Firebase
+    date: 2016/06
+    category: gcp, serverless
+  - title: IBM Bluemix OpenWhisk preview
+    date: 2016/02
+    category: faas, ibm, server-less
+  - title: IBM Bluemix OpenWhisk beta
+    date: 2016/09
+    category: faas, ibm, server-less
+  - title: IBM Bluemix OpenWhisk GA
+    date: 2016/12
+    category: faas, ibm, server-less
+  - title: IBM Cloud Function (former Bluemix OpenWhisk) 
+    date: 2017/07
+    category: faas, ibm, server-less
+  - title: Kinesis Firehose
+    date: 2015/10
+    category: aws
+  - title: Fortran
+    date: 1957
+    category: language
+  - title: Cobol
+    date: 1962
+    category: language
+  - title: BASIC
+    date: 1970
+    category: language
+  - title: Pascal
+    date: 1964
+    category: language
+  - title: C (and the Unix operating system)
+    date: 1975
+    category: language
+  - title: First interactive PC (Xerox PARC's Alto)
+    date: 1973
+    category: language
+  - title: Ada
+    date: 1980
+    category: language
+  - title: Smalltalk
+    date: 1980
+    category: language
+  - title: C++
+    date: 1985
+    category: language
+  - title: Objective-C
+    date: 1986
+    category: language
+  - title: Erlang
+    date: 1986
+    category: language
+  - title: Perl
+    date: 1987
+    category: language
+  - title: Octave
+    date: 1988
+    category: language
+  - title: Bash
+    date: 1988
+    category: language
+  - title: The Web is born
+    date: 1989
+    category: language
+  - title: Haskell
+    date: 1990
+    category: language
+  - title: Linux is open-sourced
+    date: 1992
+    category: language
+  - title: Python
+    date: 1991
+    category: language
+  - title: Netscape launch
+    date: 1994
+    category: company
+  - title: Yahoo launch
+    date: 1994
+    category: company
+  - title: Amazon launch
+    date: 1994
+    category: company
+  - title: Java
+    date: 1995
+    category: language
+  - title: Ruby
+    date: 1995
+    category: language
+  - title: JavaScript
+    date: 1995
+    category: language
+  - title: C#
+    date: 2000
+    category: language
+  - title: Processing
+    date: 2001
+    category: language
+  - title: D
+    date: 2001
+    category: language
+  - title: iPhone I released
+    date: 2007
+    category: language
+  - title: C#
+    date: 2001
+    category: language
+  - title: Scala
+    date: 2003
+    category: language
+  - title: Clojure
+    date: 2007
+    category: language
+  - title: Go
+    date: 2009
+    category: language
+  - title: Rust
+    date: 2010
+    category: language
+  - title: Dart
+    date: 2011
+    category: language
+  - title: Kotlin
+    date: 2011
+    category: language
+  - title: Elixir
+    date: 2011
+    category: language
+  - title: Julia
+    date: 2012
+    category: language
+  - title: Exilir
+    date: 2012
+    category: language
+  - title: TypeScript
+    date: 2012
+    category: language
+  - title: Elm
+    date: 2012
+    category: language
+  - title: Swift
+    date: 2014
+    category: language
+  - title: Ring
+    date: 2016
+    category: language
+  - title: Ballerina
+    date: 2017
+    category: language
+  - title: Google App Engine was released as a preview
+    date: 2008/04
+    category: gcp
+  - title: Google Cloud Storage launched
+    date: 2010/05
+    category: gcp
+  - title: Google creates the Google Cloud Platform Partner Program.
+    date: 2012/07
+    category: gcp
+  - title: Google App Engine experienced a major outage that also affected Tumblr and Dropbox
+    date: 2012/10
+    category: gcp
+  - title: BigQuery, first presented in March, went into General Availability (GA).
+    date: 2013/12
+    category: gcp
+  - title: Google Cloud SQL was released into GA.
+    date: 2014/02
+    category: gcp
+  - title: Google Cloud Functions announced for preview.
+    date: 2016/02/11
+    category: gcp
+  - title: Google Cloud Dataproc entered general availability.
+    date: 2016/02/22
+    category: gcp
+  - title: Nomulus top-level domain registry announced.
+    date: 2016/10/18
+    category: gcp
+  - title: Google Cloud Jobs API enters is released.
+    date: 2016/11/15
+    category: gcp
+  - title: Google Cloud Machine Learning Engine enters general availability.
+    date: 2017/03/08
+    category: gcp
+  - title: GKE alpha released
+    date: 2014/11/04
+    category: gcp
+  - title: "LT: The Futue of Linux Containers"
+    date: 2013/03
