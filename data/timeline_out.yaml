@@ -200,6 +200,15 @@ events:
 - title: TypeScript
   date: 2012/1/1
   category: language
+- title: Jenkins released
+  date: 2011/2/2
+  category: ci-cd, devops, java
+- title: SVN (Subversion)
+  date: 2000/10/20
+  category: vcs, dev-tool
+- title: CVS (Concurrent Versions System)
+  date: 1990/11/19
+  category: vcs, dev-tool
 - title: Julia
   date: 2012/1/1
   category: language
