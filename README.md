@@ -2,5 +2,5 @@
 
 
 ``` sh
-go run parser.go list ../../data/timeline_out.yaml --out=../../data/timeline_out.yaml
+go run ./cmd/parser/parser.go list ./data/timeline_out.yaml --out=./data/timeline_out.yaml
 ```
