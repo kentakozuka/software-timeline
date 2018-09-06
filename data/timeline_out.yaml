@@ -5,6 +5,9 @@ events:
 - title: IBM founded
   date: 1911/1/1
   category: company, ibm
+- title: The word software was coined as a prank
+  date: 1953/1/1
+  category: terminology
 - title: Fortran
   date: 1957/1/1
   category: language
@@ -41,9 +44,15 @@ events:
 - title: Microsoft founded
   date: 1975/4/4
   category: company, ms
+- title: the term Waterfall may have been in a 1976 paper by Bell and Thayer
+  date: 1976/1/1
+  category: project-management
 - title: Apple founded
   date: 1976/4/1
   category: company, apple
+- title: Oracle founded
+  date: 1977/6/16
+  category: company, oracle
 - title: Ada
   date: 1980/1/1
   category: language
@@ -53,18 +62,28 @@ events:
 - title: GNU Project
   date: 1983/1/1
   category: gnu
+- title: Microsoft Word initial release
+  date: 1983/10/25
+  category: ms, office
 - title: C++
   date: 1985/1/1
   category: language
 - title: Erlang
   date: 1986/1/1
   category: language
+- title: Takeuchi and Nonaka introduce the term Scrum for the first time in their
+    article
+  date: 1986/1/1
+  category: project-management
 - title: Objective-C
   date: 1986/1/1
   category: language
 - title: MINIX
   date: 1987/1/1
   category: os, unix
+- title: Microsoft Excel initial release
+  date: 1987/1/1
+  category: ms, office
 - title: Perl
   date: 1987/1/1
   category: language
@@ -86,25 +105,34 @@ events:
 - title: Salesforce.com founded
   date: 1990/1/1
   category: company, saas, salesforce
+- title: Microsoft Powerpoint initial release
+  date: 1990/5/22
+  category: ms, office
 - title: Linux introduced
   date: 1990/8/1
   category: os, linux, unix
+- title: Microsoft Office initial release
+  date: 1990/11/19
+  category: ms, office
 - title: CVS (Concurrent Versions System)
   date: 1990/11/19
   category: vcs, dev-tool
 - title: Python
   date: 1991/1/1
   category: language
+- title: HTTP0.9
+  date: 1991/1/1
+  category: http, web, internet
 - title: Linux is open-sourced
   date: 1992/1/1
   category: language
 - title: Amazon launch
   date: 1994/1/1
   category: company
-- title: Netscape launch
+- title: Yahoo launch
   date: 1994/1/1
   category: company
-- title: Yahoo launch
+- title: Netscape launch
   date: 1994/1/1
   category: company
 - title: Java
@@ -116,52 +144,132 @@ events:
 - title: JavaScript
   date: 1995/1/1
   category: language
+- title: Apache HTTP Server
+  date: 1995/1/1
+  category: web, server
+- title: HTTP1.0 RFC1945
+  date: 1996/6/1
+  category: http, web, internet
+- title: Hotmail service founded
+  date: 1996/7/4
+  category: e-mail
+- title: HTTP1.1 RFC2068
+  date: 1997/1/1
+  category: http, web, internet
+- title: Netflix founded
+  date: 1997/8/29
+  category: netflix, web, vod
+- title: Hotmail sold to Microsoft
+  date: 1997/12/1
+  category: ms, e-mail
 - title: Windows 98
   date: 1998/7/25
   category: os, windows
 - title: Google founded
   date: 1998/9/4
   category: company, google
+- title: Kent Beck publishes Extreme Programming Explained, setting the stages of
+    the Agile revolution
+  date: 1999/1/1
+  category: project-management
+- title: 2ch
+  date: 1999/5/30
+  category: web, internet
+- title: Apache Software Foundation
+  date: 1999/6/1
+  category: web, server, oss
 - title: Nupedia
   date: 2000/3/1
   category: web
 - title: SVN (Subversion)
   date: 2000/10/20
   category: vcs, dev-tool
-- title: D
+- title: C#
   date: 2001/1/1
   category: language
 - title: Processing
   date: 2001/1/1
   category: language
-- title: C#
+- title: D
   date: 2001/1/1
   category: language
+- title: The Agile Manifesto is published
+  date: 2001/1/1
+  category: project-management
+- title: iTunes
+  date: 2001/1/9
+  category: apple
 - title: Wikipedia
   date: 2001/1/15
   category: web
+- title: Google Earth
+  date: 2001/6/11
+  category: google, web, maps
 - title: Windows XP GA
   date: 2001/10/25
   category: os, windows
 - title: AWS
   date: 2002/1/1
   category: company, aws
+- title: Firefox
+  date: 2002/9/23
+  category: browser, web, internet
 - title: Scala
   date: 2003/1/1
   category: language
+- title: Tom and Mary Poppendieck publish their book Lean Software Development, a
+    translation for the software industry of Toyota’s Just in Time system
+  date: 2003/1/1
+  category: ""
+- title: Tableau Software founded
+  date: 2003/1/1
+  category: bi, company
+- title: Skype initial release
+  date: 2003/8/29
+  category: voi
+- title: 4ch
+  date: 2003/10/1
+  category: web, internet
 - title: Google Bigtable
   date: 2004/1/1
   category: company, gcp, kvs
+- title: Facebook founded
+  date: 2004/2/4
+  category: facebook, web, sns
+- title: Gmail
+  date: 2004/4/1
+  category: google, e-mail
+- title: Google Maps
+  date: 2005/2/8
+  category: google, web, maps
+- title: Youtube founded
+  date: 2005/2/14
+  category: web, vod, video-streaming
+- title: Youtube founded
+  date: 2005/2/14
+  category: web, vod, video-streaming
+- title: Ruby on Rails 1.0
+  date: 2005/12/13
+  category: ruby, web, framework
 - title: Git released
   date: 2005/12/21
   category: linux, oss
 - title: AWS EC2 public beta
   date: 2006/8/25
   category: company, aws, cloud
-- title: Clojure
+- title: jQuery initial release
+  date: 2006/8/26
+  category: javascript, web, front-end
+- title: Khan Academy founded
+  date: 2006/10/1
+  category: e-learning
+- title: Youtube bought by Google
+  date: 2006/11/1
+  category: google, web, vod, video-streaming
+- title: iPhone I released
   date: 2007/1/1
   category: language
-- title: iPhone I released
+- title: Clojure
   date: 2007/1/1
   category: language
 - title: MongoDB
@@ -170,63 +278,124 @@ events:
 - title: iPhone introduced
   date: 2007/1/9
   category: company, apple, smartphone
-- title: Google App Engine released as a preview
-  date: 2008/4/1
-  category: faas, gcp, server-less
-- title: GitHub, Inc founded
+- title: Google Maps, Street View
+  date: 2007/5/25
+  category: google, web, maps
+- title: Dropbox initial release
+  date: 2007/6/1
+  category: cloud-storage
+- title: Hulu founded
+  date: 2007/10/29
+  category: hulu, web, vod
+- title: Apache HBase
+  date: 2008/3/28
+  category: oss, apache, nosql
+- title: GitHub Inc founded
   date: 2008/4/1
   category: oss, company
 - title: Google App Engine was released as a preview
   date: 2008/4/1
   category: gcp
+- title: Google App Engine released as a preview
+  date: 2008/4/1
+  category: faas, gcp, server-less
+- title: airbnb founded
+  date: 2008/8/1
+  category: airbnb, company, c2c
+- title: Chrome
+  date: 2008/9/2
+  category: browser, web, internet, google
+- title: Android initial release
+  date: 2008/9/23
+  category: os, linux, mobile, smartphone
 - title: 'Bitcoin: A Peer-to-Peer Electronic Cash System'
   date: 2008/10/1
   category: blockchain, bitcoin, paper
 - title: Microsoft Windows Azure introduced
   date: 2008/10/27
   category: faas, microsoft, cloud
-- title: Bitcoin 0.1 released
+- title: Ruby on Rails 2.2
+  date: 2008/11/21
+  category: ruby, web, framework
+- title: the principles of the movement known as Software Craftmanship are established
   date: 2009/1/1
-  category: blockchain, bitcoin
+  category: project-management
+- title: The term DevOps becomes popular in a series of devopsdays
+  date: 2009/1/1
+  category: project-management, devops
 - title: Go
   date: 2009/1/1
   category: language
+- title: Bitcoin 0.1 released
+  date: 2009/1/1
+  category: blockchain, bitcoin
 - title: Redis
   date: 2009/1/1
   category: kvs, nosql
+- title: Chronium OS
+  date: 2009/1/1
+  category: os, linux, browser, google
+- title: Uber founded
+  date: 2009/3/9
+  category: uber, company, c2c
+- title: Uber founded
+  date: 2009/3/9
+  category: uber, company, c2c
+- title: David Anderson publishes his book Kanban, a methodology that is also based
+    on Toyota’s Production System
+  date: 2010/1/1
+  category: project-management, devops
 - title: Rust
   date: 2010/1/1
   category: language
-- title: Google Cloud Storage launched
-  date: 2010/5/1
-  category: gcp
+- title: iPad
+  date: 2010/4/3
+  category: apple
 - title: Bitcoin pizza day
   date: 2010/5/1
   category: blockchain, bitcoin
+- title: Google Cloud Storage launched
+  date: 2010/5/1
+  category: gcp
 - title: Kotlin
-  date: 2011/1/1
-  category: language
-- title: Elixir
   date: 2011/1/1
   category: language
 - title: Dart
   date: 2011/1/1
   category: language
+- title: Elixir
+  date: 2011/1/1
+  category: language
 - title: Jenkins released
   date: 2011/2/2
   category: ci-cd, devops, java
+- title: nginx 1.0
+  date: 2011/4/12
+  category: web, server
+- title: The first Chromebook
+  date: 2011/6/15
+  category: os, linux, browser, google
+- title: Node.js 0.1.14
+  date: 2011/8/26
+  category: javascript, v8, server, nodejs
+- title: Firebase founded
+  date: 2011/9/1
+  category: gcp, company
+- title: Julia
+  date: 2012/1/1
+  category: language
 - title: Elm
   date: 2012/1/1
   category: language
 - title: TypeScript
   date: 2012/1/1
   category: language
-- title: Julia
-  date: 2012/1/1
-  category: language
 - title: Exilir
   date: 2012/1/1
   category: language
+- title: Coursera launched
+  date: 2012/4/6
+  category: e-learning
 - title: Google creates the Google Cloud Platform Partner Program.
   date: 2012/7/1
   category: gcp
@@ -240,15 +409,24 @@ events:
 - title: docker open sourced by dotCloud
   date: 2013/3/1
   category: container, docker
+- title: Slack released
+  date: 2013/8/1
+  category: chat, devops, chatops
 - title: BigQuery, first presented in March, went into General Availability (GA).
   date: 2013/12/1
   category: gcp
 - title: Swift
   date: 2014/1/1
   category: language
+- title: Google aquired Firebase
+  date: 2014/1/1
+  category: gcp, company
 - title: Google Cloud SQL was released into GA.
   date: 2014/2/1
   category: gcp
+- title: Google Cloud Pub/Sub first released (v1beta)
+  date: 2014/6/1
+  category: gcp, pubsub
 - title: kubernetes first commit
   date: 2014/6/6
   category: cncf, cloud
@@ -258,12 +436,27 @@ events:
 - title: GKE alpha released
   date: 2014/11/4
   category: gcp
+- title: io.js 1.0.0
+  date: 2015/1/14
+  category: javascript, v8, server, nodejs
+- title: HTTP2.0 RFC 7540
+  date: 2015/5/1
+  category: http, web, internet
 - title: AWS Lambda Tokyo Resion started
   date: 2015/6/1
   category: aws, server-less, faas
 - title: Ethereum 1.0
   date: 2015/7/1
   category: blockchain, ethereum
+- title: GraphQL initial public release
+  date: 2015/7/11
+  category: http, web, api
+- title: Dataflow SDK 1.x for Java GA (1.0)
+  date: 2015/8/10
+  category: gcp, dataflow, apache
+- title: Node.js 4.0.0
+  date: 2015/9/8
+  category: javascript, v8, server, nodejs
 - title: JAWS framework
   date: 2015/10/1
   category: server-less
@@ -273,12 +466,12 @@ events:
 - title: Ring
   date: 2016/1/1
   category: language
-- title: Google Cloud Function alpha
-  date: 2016/2/1
-  category: faas, gcp, server-less
 - title: IBM Bluemix OpenWhisk preview
   date: 2016/2/1
   category: faas, ibm, server-less
+- title: Google Cloud Function alpha
+  date: 2016/2/1
+  category: faas, gcp, server-less
 - title: Google Cloud Functions announced for preview.
   date: 2016/2/11
   category: gcp
@@ -294,6 +487,15 @@ events:
 - title: Firebase
   date: 2016/6/1
   category: gcp, serverless
+- title: Apache Beam released
+  date: 2016/6/15
+  category: serverless, apache
+- title: Prometheus 1.0
+  date: 2016/7/18
+  category: monitoring, microservice
+- title: gRPC 1.0
+  date: 2016/8/19
+  category: rpc, cncf, web, api
 - title: IBM Bluemix OpenWhisk beta
   date: 2016/9/1
   category: faas, ibm, server-less
@@ -303,12 +505,12 @@ events:
 - title: Nomulus top-level domain registry announced.
   date: 2016/10/18
   category: gcp
-- title: AWS SAM
-  date: 2016/11/1
-  category: aws, server-less, faas
 - title: Azure Function GA
   date: 2016/11/1
   category: faas, azure, server-less
+- title: AWS SAM
+  date: 2016/11/1
+  category: aws, server-less, faas
 - title: Google Cloud Jobs API enters is released.
   date: 2016/11/15
   category: gcp
@@ -333,13 +535,25 @@ events:
 - title: AWS Chalice GA
   date: 2017/8/1
   category: aws, server-less, faas
-- title: Google Cloud Function Tokyo Resion
+- title: Prometheus 2.0
+  date: 2017/11/8
+  category: monitoring, microservice
+- title: fluentd 1.0
+  date: 2017/12/6
+  category: cncf, logging, monitoring
+- title: Jeager 1.0
+  date: 2017/12/6
+  category: monitoring, microservice, tracing
+- title: BigQuery Tokyo resion
+  date: 2018/4/18
+  category: gcp, rdb, cloud
+- title: Google Cloud Function Tokyo Region
   date: 2018/6/1
   category: faas, gcp, server-less
+- title: GitHub bought by Microsoft
+  date: 2018/6/4
+  category: github, company, ms
 - title: Google Cloud Serverless Container
-  date: 2018/7/1
-  category: faas, gcp, server-less
-- title: Google Cloud Function GA
   date: 2018/7/1
   category: faas, gcp, server-less
 - title: Google Cloud Function GA
