@@ -32,9 +32,10 @@ type Data struct {
 }
 
 type Event struct {
-	Title    string     `yaml:"title"`
-	Date     CustomTime `yaml:"date"`
-	Category string     `yaml:"category"`
+	Title       string     `yaml:"title"`
+	Description string     `yaml:"description"`
+	Date        CustomTime `yaml:"date"`
+	Category    string     `yaml:"category"`
 }
 
 type CustomTime struct {

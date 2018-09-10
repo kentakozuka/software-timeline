@@ -9,5 +9,5 @@
 
 
 ``` sh
-go run ./cmd/parser/parser.go list ./data/timeline_out.yaml --out=./data/timeline_out.yaml
+openssl req -newkey rsa:2048 -nodes -keyout server.key -x509 -days 365 -out server.crt
 ```
