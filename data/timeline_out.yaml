@@ -200,7 +200,7 @@ events:
   description: ""
   date: 1992/1/1
   category: language
-- title: Amazon launch
+- title: Netscape launch
   description: ""
   date: 1994/1/1
   category: company
@@ -208,14 +208,10 @@ events:
   description: ""
   date: 1994/1/1
   category: company
-- title: Netscape launch
+- title: Amazon launch
   description: ""
   date: 1994/1/1
   category: company
-- title: JavaScript
-  description: ""
-  date: 1995/1/1
-  category: language
 - title: Java
   description: ""
   date: 1995/1/1
@@ -228,6 +224,10 @@ events:
   description: ""
   date: 1995/1/1
   category: web, server
+- title: JavaScript
+  description: ""
+  date: 1995/1/1
+  category: language
 - title: HTTP1.0 RFC1945
   description: ""
   date: 1996/6/1
@@ -390,6 +390,10 @@ events:
   description: ""
   date: 2006/11/1
   category: google, web, vod, video-streaming
+- title: iPhone I released
+  description: ""
+  date: 2007/1/1
+  category: language
 - title: Clojure
   description: ""
   date: 2007/1/1
@@ -398,14 +402,14 @@ events:
   description: ""
   date: 2007/1/1
   category: kvs, nosql
-- title: iPhone I released
-  description: ""
-  date: 2007/1/1
-  category: language
 - title: iPhone introduced
   description: ""
   date: 2007/1/9
   category: company, apple, smartphone
+- title: Linux Foundation, formed
+  description: from a merger of Open Source Development Labs and Free Standards Group
+  date: 2007/1/21
+  category: linux, oss
 - title: Google Maps, Street View
   description: ""
   date: 2007/5/25
@@ -447,7 +451,7 @@ events:
   date: 2008/9/23
   category: os, linux, mobile, smartphone
 - title: 'Bitcoin: A Peer-to-Peer Electronic Cash System'
-  description: ""
+  description: written by Satoshi Nakamoto
   date: 2008/10/1
   category: blockchain, bitcoin, paper
 - title: Microsoft Windows Azure introduced
@@ -458,10 +462,10 @@ events:
   description: ""
   date: 2008/11/21
   category: ruby, web, framework
-- title: Go
+- title: the principles of the movement known as Software Craftmanship are established
   description: ""
   date: 2009/1/1
-  category: language
+  category: project-management
 - title: Bitcoin 0.1 released
   description: ""
   date: 2009/1/1
@@ -478,10 +482,10 @@ events:
   description: ""
   date: 2009/1/1
   category: kvs, nosql
-- title: the principles of the movement known as Software Craftmanship are established
+- title: Go
   description: ""
   date: 2009/1/1
-  category: project-management
+  category: language
 - title: Uber founded
   description: ""
   date: 2009/3/9
@@ -547,6 +551,10 @@ events:
   description: ""
   date: 2011/9/1
   category: gcp, company
+- title: TypeScript
+  description: ""
+  date: 2012/1/1
+  category: language
 - title: Exilir
   description: ""
   date: 2012/1/1
@@ -556,10 +564,6 @@ events:
   date: 2012/1/1
   category: language
 - title: Elm
-  description: ""
-  date: 2012/1/1
-  category: language
-- title: TypeScript
   description: ""
   date: 2012/1/1
   category: language
@@ -644,6 +648,10 @@ events:
   description: ""
   date: 2015/7/11
   category: http, web, api
+- title: CNCF (Cloud Native Computing Foundation) founded
+  description: ""
+  date: 2015/7/15
+  category: cncf, cloud, linux, oss
 - title: Dataflow SDK 1.x for Java GA (1.0)
   description: ""
   date: 2015/8/10
@@ -764,14 +772,14 @@ events:
   description: ""
   date: 2017/11/8
   category: monitoring, microservice
-- title: fluentd 1.0
-  description: ""
-  date: 2017/12/6
-  category: cncf, logging, monitoring
 - title: Jeager 1.0
   description: ""
   date: 2017/12/6
   category: monitoring, microservice, tracing
+- title: fluentd 1.0
+  description: ""
+  date: 2017/12/6
+  category: cncf, logging, monitoring
 - title: BigQuery Tokyo resion
   description: ""
   date: 2018/4/18
